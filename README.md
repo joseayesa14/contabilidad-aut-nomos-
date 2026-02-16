@@ -1,2 +1,2 @@
-# contabilidad-aut-nomos-
+# contabilidad-autonomos-
 Mi aplicación contabilidad
